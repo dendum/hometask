@@ -10,7 +10,7 @@ int main()
     int y = 0;
     
     cout << "Enter your line:" << endl;
-    cin.getline(str, 128);
+    cin.getline(str,z);
 
     for ( int x = 0; x < z; x++)
     {
